@@ -1,0 +1,3 @@
+# subman
+TXT- and SCR-format subtitle editor for both 2D and 3D (stereoscopic) subtitling. Checks both existing subtitles' syntax and timeline conformity and performs global/local subtitles' positioning with respect to TimeCode, frame position and (forstereo subtitles) depth.
+Originally coded in 2010 for Technicolor Creative Services film-out workflow, where 35mm films were printed using Cinevation's Cinevator, that supported real-time printing of subtitles in SCR format. Last-minute changes were often needed, so a reliable command-line tool that automated such processing to some or all the subtitles proved useful.
